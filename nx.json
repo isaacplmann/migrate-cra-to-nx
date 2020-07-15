@@ -31,6 +31,9 @@
     "webapp-e2e": {
       "tags": [],
       "implicitDependencies": ["webapp"]
+    },
+    "ui-button": {
+      "tags": []
     }
   }
 }
